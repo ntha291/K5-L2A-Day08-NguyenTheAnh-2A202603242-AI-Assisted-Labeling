@@ -1,0 +1,3 @@
+step,images,minutes,note
+gold_manual,4,24.5,"Gán tay 4 ảnh gold theo guideline v1.0 (trung bình 6.1 phút/ảnh), gán kỹ xích lô, tuk-tuk, người lái và ignore_region"
+batch_review,24,72.0,"Review 24 ảnh batch có pre-label theo checklist 4 bước (trung bình 3.0 phút/ảnh), gỡ bẫy, gắn ignore_region, sửa biên"

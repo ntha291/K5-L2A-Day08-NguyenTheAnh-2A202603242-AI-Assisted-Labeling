@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,NguyenTheAnh,Đã loại bỏ phantom truck thành công; các box xe và người đúng quy chuẩn
+img_004.jpg,,khong,NguyenTheAnh,Xích lô và khách đã gán nhãn chính xác; viền box ôm sát
+img_008.jpg,,khong,NguyenTheAnh,Đã phục hồi person bị xóa bởi trap missing; các box khác đạt chuẩn
+img_013.jpg,,khong,NguyenTheAnh,Tuk-tuk Bangkok gán đúng three_wheeler; người lái được tách riêng
+img_017.jpg,,bo_sot,NguyenTheAnh,Sót 1 người đi bộ ở góc xa vỉa hè hậu cảnh (ảnh bẫy missing lọt)
+img_018.jpg,,khong,NguyenTheAnh,Cụm xe máy đông đúc đã được gắn ignore_region đúng quy định v1.1
+img_023.jpg,,khong,NguyenTheAnh,Xe ba bánh chở hàng và người đi bộ gán chuẩn xác
+img_035.jpg,,khong,NguyenTheAnh,Đã sửa lỗi phân loại sai từ bicycle về person; không còn lỗi
